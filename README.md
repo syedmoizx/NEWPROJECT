@@ -7,3 +7,6 @@ Deployed a user registration webpage on EC2, mapped with a custom domain via Rou
 This project demonstrates my practical experience in designing and deploying scalable, serverless solutions using core AWS services.
  🔧 Tools Used: EC2, Route 53, API Gateway, Lambda, RDS, CloudWatch
 📽️ Check out the screen recording to see it in action!
+
+# Procect link 
+https://www.linkedin.com/posts/moiz-syed-819168368_aws-cloudengineer-serverlessarchitecture-activity-7355930902654312449-lGln?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFsl7JUBLLgfZlybD-02JRNwnp5ucobeq3c
